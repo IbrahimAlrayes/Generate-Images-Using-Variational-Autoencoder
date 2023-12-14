@@ -1,4 +1,4 @@
-# VAE-tutorial
+# VAE
 A simple implementation of Variational AutoEncoder(VAE) models. This repository contains the implementations of following VAE families.
 
 
